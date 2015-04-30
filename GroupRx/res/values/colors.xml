@@ -1,0 +1,28 @@
+<resources>
+
+    
+    
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#7A7A7A</color>
+    <color name="background">#0044AA</color>
+    <color name="bluelight">#449DEF</color>
+    <color name="bluedark">#2F6699</color>
+    <color name="greenlight">#70C656</color>
+    <color name="greendark">#53933F</color>
+    <color name="orangelight">#F3AE1B</color>
+    <color name="orangedark">#BB6008</color>
+    <color name="black">#000000</color>
+    
+    <color name="buttonHover">#1f9dfb</color>
+    
+    <color name="textcoloronwhitebackground">#4e4c4c</color>
+    <color name="textcolor_gray">#585656</color>
+    <color name="textcolor_black">#2d2d2d</color>
+    
+    <color name="background_groupID">#f4f4f4</color>
+    
+    
+    
+    
+
+</resources>

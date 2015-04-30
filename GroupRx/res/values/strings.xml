@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <string-array name="menu_item_left">
+        <item>@string/how_to_use_app</item>
+        <item>@string/Share_Application</item>
+        <item>@string/faq</item>
+        <item>@string/About_Healthcare_Saving_Card</item>
+        <item>@string/About_National_Drug_Card</item>
+    </string-array> -->
+    
+    <string-array name="array_string_faqs_questions">
+        <item>How does the digital Rx card work?</item>
+        <item>Who can benefit from this drug card?</item>
+        <item>Can the members of my family also use this prescription drug discount card?</item>
+        <item>How much will I save with the card?</item>
+        <item>What prescription medications are covered under the National Drug Card Prescription benefit?</item>
+        <item>Are there any age or enrollment restrictions?</item>
+        <item>Can Anyone use the card?</item>
+        <item>I am not a U.S. Citizen, can I use the card?</item>
+        <item>Does my doctor need to know about this card when writing my prescription?</item>
+        <item>Do prices vary among participating pharmacies?</item>
+        <item>Why don’t all pharmacies accept the card?</item>
+        <item>What if my pharmacist said the card would not save me any money?</item>
+        <item>I already have insurance that covers my prescription drugs. How can this Drug Card benefit me?</item>
+        <item>Can I search for a particular medication price on the app?</item>
+        <item>Who should I contact if I have a problem with my pharmacy discount program?</item>
+    </string-array>
+    <string-array name="array_string_faqs_questions_items">
+        <item>Simply give the card to the pharmacist and they will enter the codes in to their computer system. 
+			The card holder then becomes a member of one of Largest Rx Buying Groups in America. As a 
+			member, you have access to discounted prescription prices. Remember, with this card there are 
+			no deductibles, no fees, no paper work or forms to complete, everyone qualifies. This program 
+			covers your entire household and it is pre-activated and can be used immediately.</item>
+        <item>            • Those with no insurance \n
+			• Those who may have insurance but have limitations like high deductibles, non-covered drugs, 
+			high copayments or caps on their benefits \n
+			• Seniors who fall into the donut hole of their Medicare Part D \n
+			• Employees who are in their waiting period for healthcare coverage \n
+			• Employees who cannot afford COBRA payments when they lose their job \n
+			• Employees who cannot afford to cover dependents \n</item>
+        <item>Yes. This card will cover all of the family members living in your home.</item>
+        <item>Savings of 10 to 85 on Brand-Name and Generic drugs. You will save an average of 8 times out of 10 over the pharmacy price. Take your prescription with your cards to a participating pharmacy and the pharmacist can tell you how much the medicine will cost with and without the use of the card.</item>
+        <item>All FDA approved brand and generic prescription medications are covered.</item>
+        <item>No, everyone can enroll and benefit.</item>
+        <item>Yes, just use the share options located in the side menu to send the app to anyone. The side 
+			menu can be accessed by pressing the menu button on the upper left corner of the app screen.</item>
+        <item>Yes anyone may use the program if it is used at pharmacies within the U.S. and it s territories.</item>
+        <item>            No. This program will not affect the way you are cared for by your physician. You should,
+			however, always consult with your doctor about saving money on prescription medications.</item>
+        <item>            Industry standards determine the discounted rate for prescription medications. This means in 
+			most instances, all participating pharmacies will offer the same low price. These rates are 
+			updated at least once a week, so prices may vary depending on when you go to the pharmacy. 
+			From time-to-time, pharmacies may offer special sale prices for a limited time on selected 
+			drugs. These sale prices may be lower than the scheduled discount rates, in which case the 
+			card holder will pay only the lowered sales price. We always encourage comparison shopping.</item>
+        <item>            All chain pharmacies and most independent pharmacies have been given equal opportunity to 
+			serve you via this program. Pharmacies are required to offer very deep discounts and assist in 
+			performing some fairly complicated drug management procedures on behalf of our card holders, 
+			and some pharmacies simply refuse. However that gives you the confidence of knowing that 
+			pharmacies participating have your best interests in mind and that there are the majority of 
+			pharmacies in your regional area accept your card.</item>
+        <item>As a member, you are entitled to your benefit. Your pharmacist will not know what the card
+			savings will be until the prescription is sent for pricing through the pharmacist s computer. If your 
+			Pharmacist does not want to comply with the program, you should consider going to another 
+			nearby pharmacy that honors the card.</item>
+        <item>			    This program can be used to obtain savings on prescription drugs that are excluded by your
+				insurance plan or are not covered because you have exceeded your insurance plan s maximum 
+				limits. In some instances, you might find that the Card s price is lower than your program s co-
+				payment amount, but not usually. In addition, if your plan does not offer you a drug card and you 
+				are reimbursed after each transaction, you may be able to use the Card to lower your out-of-
+				pocket expenses.</item>
+        <item>			    To search for how much a medication will cost on the app, follow these 3 easy steps. \n
+		STEP 1: \n \n
+		Press the “Search Prices” button on the bottom right corner of the app to access the National 
+		Drug Card Rx Price search engine. \n
+		STEP 2: \n \n
+		Type in the name of your medication and and select the dosage and form from the drop pop up 
+		list. \n
+		STEP 3: \n \n
+		Enter your zip code and press the Search button \n</item>
+        <item>Call the Rx Help Desk 1 877 684 0032</item>
+    </string-array>
+
+    <string name="app_name">Rx Card</string>
+    <string name="desp">desp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="Use_Free_Card">Use Free Card</string>
+    <string name="Search_Prices">Search Prices</string>
+    <string name="Free_RX_Card">Free Rx Card</string>
+    <string name="how_to_use_app">How to Use App</string>
+    <string name="how_to_use_digital_rx_card">How to Use Digital Rx Card</string>
+    <string name="Share_Application">Share Application</string>
+    <string name="faq">FAQs</string>
+    <string name="links">Links</string>
+    <string name="About_Healthcare_Saving_Card">About Healthcare Saving Club</string>
+    <string name="share_message"><u>Save up to 85% on your medications with this NEW Free app and help my organization. Use the
+									Group ID code: (group ID goes here) to activate the app. Share this app with all your friends and 
+									family. 
+									
+									Download on iTunes http://grouprxapp.com/download
+									Download on iTunes http://grouprxapp.com/download/google</u></string>
+    <string name="Prices_And_Locations">Prices and Locations</string>
+    <string name="enter_Group_ID">Enter Group ID :</string>
+    <string name="Group_ID">Group ID</string>
+    <string name="Group_text">Use the ID provided by your organization to activate the Free app. Your organization will benefit each time you use the GroupRx app at your local pharmacy.</string>
+    <string name="activate_app">Activate App</string>
+    <string name="Group_text_2">If you do not have a Group ID, press the button below to use the Free GroupRx app at your local pharmacy to save on your medications.</string>
+    <string name="i_dont_have_group_id">I dont have a Group ID</string>
+    <string name="Select_your_Card">Select Your Card</string>
+    <string name="use_rx_card">Use Rx Card</string>
+    <string name="use_rx_card_free_10_85_1">Save 10% - 85% on Brand-Name and Generics</string>
+    <string name="about_free_pet_drug_card">About the Free Pet Drug Card</string>
+    <string name="pet_card_info">The Free Pet Drug Card allows you to save money on most pet medications with just a click.
+         		Since about 95 of the medication that we give to pets is only a different dosage of the medicine we take ourselves,
+         		rather than spending more buying marked-up drugs from your Vet, you can give your furry friend the medicine they need at the pharmacy price.
+         		All you need is a Free Pet Drug Card and a written prescription from your Vet to save up to 85% on drugs for your dog, cat or other pet. \n \n
+				When you go to the vet and pay for medicine, you are overpaying on wholesale markups simply to get a different dosage of medicine
+				available at any participating pharmacy. The Free Pet Drug Card allows you to get the right drug for your pet and save up to 85. \n \n
+				To take advantage of our Free Pet Drug Card, all you need to do is present this card to your pharmacist. There is no expiration date,
+				no limit to usages and no paperwork to fill out. The card is accepted in 63,000 pharmacies across the nation to get you the best deal on prescriptions.</string>
+    <string name="back">Back</string>
+    <string name="Donate">Donate</string>
+    <string name="About_National_Drug_Card">About National Drug Card</string>
+    <string name="About_National_Drug_Card_Content">Founded in 2005, National Drug Card is a Washington, D.C. based organization that offers
+        	 a free discount drug card to millions of people across the United States and its territories allowing 
+        	 them save money on their prescription medications. Anyone is eligible for the card, but it especially benefits 
+        	 those with no health insurance, senior citizens, small business owners, families, college students, the unemployed 
+        	 and the undocumented. Additionally, individuals who have prescription benefits can use NDC to receive discounts 
+        	 on medications that are not covered by their insurance plan or those seniors who Medicare Part D, you may be at 
+        	 risk of falling into the prescription drug coverage gap, or doughnut hole.</string>
+    <string name="NDC_Savings_Club_Page">NDC Savings Club Page</string>
+    <string name="About_NDC_Content">National Drug Card recently launched the nation’s first Healthcare Savings Club.
+         		This new program offers more than 75 types of savings and preferred pricing, with discounts on medical,
+         		 dental, vision, labs, podiatry, diabetes, hearing, legal, travel, shopping, entertainment and more.
+         		  We also have sections for holistic &amp; natural treatments as well as resources for seniors, men and women.
+         		   The NDC Savings Club’s mission is to enhance the quality of life for families, groups, businesses,
+         		    non-profits and organizations by providing a free online directory dedicated 
+         		    to helping them cut their healthcare costs.</string>
+
+    <string name="PLS_SELECT_GROUPID">Please Insert GroupID</string>
+
+</resources>

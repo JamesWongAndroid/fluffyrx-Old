@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.grouprx.ui.GroupIDActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:contentDescription="@string/desp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_image_group" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:paddingLeft="20dp"
+       android:paddingRight="20dp"
+        android:background="@color/background_groupID"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/enter_Group_ID"
+            android:textColor="@color/textcolor_gray"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editText_group_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_border"
+            android:hint="@string/Group_ID"
+            android:inputType="text"
+            android:padding="15dp"
+            android:textColor="@color/textcolor_black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/Group_text"
+            android:textColor="@color/textcolor_black"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button_activiate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="#00aeff"
+            android:padding="15dp"
+            android:text="@string/activate_app"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/Group_text_2"
+            android:textColor="@color/textcolor_black"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button_dont_have_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:padding="15dp"
+            android:background="#acacac"
+            android:text="@string/i_dont_have_group_id"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

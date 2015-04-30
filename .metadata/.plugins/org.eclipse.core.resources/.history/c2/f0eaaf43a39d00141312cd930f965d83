@@ -1,0 +1,163 @@
+package com.jsource.grouprx;
+
+import net.simonvt.menudrawer.MenuDrawer;
+import net.simonvt.menudrawer.Position;
+import android.annotation.SuppressLint;
+import android.app.ActionBar;
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.CompoundButton;
+import android.widget.CompoundButton.OnCheckedChangeListener;
+import android.widget.ImageButton;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
+import android.widget.TextView;
+import android.widget.Toast;
+
+public class MainActivity extends ActionBarActivity {
+	
+	private MenuDrawer mDrawer;
+	
+	private TextView mTitleTextView;
+	private RadioButton actionbar_home;
+	private RadioGroup radiobutton_group;
+	private RadioGroup ragiobutton_group_home;
+	private RadioButton button_Use_Free_Card;
+	private RadioButton button_Search_Prices;
+
+	@SuppressLint("InflateParams")
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		try {
+			ActionBar mActionBar = getActionBar();
+			mActionBar.setDisplayShowHomeEnabled(false);
+			mActionBar.setDisplayShowTitleEnabled(false);
+			LayoutInflater mInflater = LayoutInflater.from(this);
+			View mCustomView = mInflater.inflate(R.layout.custom_action_bar,
+					null);
+			mTitleTextView = (TextView) mCustomView
+					.findViewById(R.id.activity_title_textView);
+			ImageButton actionbar_menu = (ImageButton) mCustomView
+					.findViewById(R.id.actionbar_menu);
+			actionbar_menu.setOnClickListener(new OnClickListener() {
+				@Override
+				public void onClick(View view) {
+					Toast.makeText(getApplicationContext(), "actionbar_menu",
+							Toast.LENGTH_LONG).show();
+				}
+			});
+			ragiobutton_group_home = (RadioGroup) mCustomView
+					.findViewById(R.id.ragiobutton_group_home);
+			actionbar_home = (RadioButton) mCustomView
+					.findViewById(R.id.actionbar_home);
+			actionbar_home
+			.setOnCheckedChangeListener(new OnCheckedChangeListener() {
+				@Override
+				public void onCheckedChanged(CompoundButton buttonView,
+						boolean isChecked) {
+					if (isChecked) {
+						radiobutton_group.clearCheck();
+					}
+					Toast.makeText(
+							getBaseContext(),
+							"actionbar_home IsChecked = " + isChecked,
+							Toast.LENGTH_SHORT).show();
+				}
+			});
+			mActionBar.setCustomView(mCustomView);
+			mActionBar.setDisplayShowCustomEnabled(true);
+		} catch (Exception e) {
+			System.out.println("ExceptionException = "+e);
+		}
+
+		mDrawer = MenuDrawer.attach(MainActivity.this, MenuDrawer.Type.BEHIND,
+				Position.LEFT, MenuDrawer.MENU_DRAG_WINDOW);
+		mDrawer.setMenuSize(400);
+		mDrawer.setTouchMode(MenuDrawer.TOUCH_MODE_FULLSCREEN);
+
+		mDrawer.setContentView(R.layout.fragment_main_container);
+		mDrawer.setMenuView(R.layout.slide_menu_tools);
+		
+		
+		
+		radiobutton_group = (RadioGroup) findViewById(R.id.radiobutton_group);
+		button_Use_Free_Card = (RadioButton) findViewById(R.id.button_Use_Free_Card);
+		button_Search_Prices = (RadioButton) findViewById(R.id.button_Search_Prices);
+		
+
+		button_Use_Free_Card
+				.setOnCheckedChangeListener(new OnCheckedChangeListener() {
+					@Override
+					public void onCheckedChanged(CompoundButton buttonView,
+							boolean isChecked) {
+						if (isChecked) {
+							if (ragiobutton_group_home != null) {
+								ragiobutton_group_home.clearCheck();
+							}
+						}
+						Toast.makeText(
+								getBaseContext(),
+								"button_Use_Free_Card IsChecked = " + isChecked,
+								Toast.LENGTH_SHORT).show();
+					}
+				});
+		button_Search_Prices
+				.setOnCheckedChangeListener(new OnCheckedChangeListener() {
+					@Override
+					public void onCheckedChanged(CompoundButton buttonView,
+							boolean isChecked) {
+						if (isChecked) {
+							if (ragiobutton_group_home != null) {
+								ragiobutton_group_home.clearCheck();
+							}
+						}
+						Toast.makeText(
+								getBaseContext(),
+								"button_Search_Prices IsChecked = " + isChecked,
+								Toast.LENGTH_SHORT).show();
+					}
+				});
+		
+		
+		setTitle(R.string.Free_RX_Card);
+		if (actionbar_home != null) {
+			actionbar_home.setChecked(true);
+		}
+	}
+
+	public void setTitle(String tit) {
+		if (mTitleTextView != null) {
+			mTitleTextView.setText(tit);
+		}
+	}
+
+	public void setTitle(int res) {
+		if (mTitleTextView != null) {
+			mTitleTextView.setText(res);
+		}
+	}
+
+//	@Override
+//	public boolean onCreateOptionsMenu(Menu menu) {
+//		// Inflate the menu; this adds items to the action bar if it is present.
+//		getMenuInflater().inflate(R.menu.main, menu);
+//		return true;
+//	}
+//
+//	@Override
+//	public boolean onOptionsItemSelected(MenuItem item) {
+//		// Handle action bar item clicks here. The action bar will
+//		// automatically handle clicks on the Home/Up button, so long
+//		// as you specify a parent activity in AndroidManifest.xml.
+//		int id = item.getItemId();
+//		if (id == R.id.action_settings) {
+//			return true;
+//		}
+//		return super.onOptionsItemSelected(item);
+//	}
+}

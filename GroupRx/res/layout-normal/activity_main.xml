@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.grouprx.ui.MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/radiobutton_group"
+        ></RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/radiobutton_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+        
+        <RadioButton
+            android:id="@+id/button_Use_Free_Card"
+            style="?android:attr/buttonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_color_background_green"
+            android:button="@android:color/transparent"
+            android:drawableLeft="@drawable/ic_rx"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/Use_Free_Card"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            tools:ignore="RtlHardcoded" />
+
+        <RadioButton
+            android:id="@+id/button_Search_Prices"
+            style="?android:attr/buttonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_color_background_green"
+            android:button="@android:color/transparent"
+            android:drawableLeft="@drawable/ic_dollar"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/Search_Prices"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            tools:ignore="RtlHardcoded" />
+
+    </RadioGroup>
+
+</RelativeLayout>

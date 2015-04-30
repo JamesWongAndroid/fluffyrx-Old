@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="@color/black" >
+
+    <ImageButton
+        android:id="@+id/actionbar_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/selector_menu_button"
+        android:button="@null"
+        android:background="@android:color/transparent"
+        android:padding="10dp"
+        android:paddingLeft="10dp"
+        android:contentDescription="@string/desp"
+         />
+
+    
+    <ImageButton
+        android:id="@+id/actionbar_back"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/ic_back"
+        android:background="@android:color/transparent"
+        android:padding="10dp"
+        android:paddingLeft="10dp"
+        android:contentDescription="@string/desp"
+        android:visibility="gone"
+         />
+    
+    
+    <TextView
+        android:id="@+id/activity_title_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        />
+    
+    <RadioGroup
+        android:id="@+id/ragiobutton_group_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="10dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+    <RadioButton
+        android:id="@+id/actionbar_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:button="@null"
+        android:drawableStart="@drawable/selector_home_button"
+        android:padding="10dp"
+        />
+    </RadioGroup>
+
+</RelativeLayout>

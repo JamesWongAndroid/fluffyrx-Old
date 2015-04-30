@@ -1,0 +1,38 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageview_ndc"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:contentDescription="@string/desp"
+        android:src="@drawable/ic_image_video_ndc" />
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/NDC_Savings_Club_Page"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/About_NDC_Content"
+        android:textSize="18sp"
+        />
+
+</LinearLayout>
+
+</ScrollView>

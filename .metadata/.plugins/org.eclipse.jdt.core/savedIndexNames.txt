@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\nazarian\Google Drive\java Eclipse Mobile\GroupRx\.metadata\.plugins\org.eclipse.jdt.core
+875390851.index
+62573373.index
+1707917415.index
+4165919758.index
+3515282563.index
