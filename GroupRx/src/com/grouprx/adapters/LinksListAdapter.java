@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.objects.objLink;
 
 public class LinksListAdapter extends BaseAdapter

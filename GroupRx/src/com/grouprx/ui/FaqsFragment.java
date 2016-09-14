@@ -10,7 +10,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.util.MyFragment;
 
 public class FaqsFragment extends MyFragment {

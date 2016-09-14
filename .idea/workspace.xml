@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c759e2e3-d5b7-4cbc-8571-d65cdc92d1e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/GroupRx.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/dexedLibs/android-support-v4-8f6817ce6d51e6856619ff1e21f0280a.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/dexedLibs/android-support-v7-appcompat-65749b6b83de7f9a33267178cfadac69.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/dexedLibs/android-support-v7-appcompat-e1f40083e5081a8f343d0378cc029f92.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/dexedLibs/menudrawer-fa241ba76c91814d5eddfe42554cd583.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/bin/resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/gen/com/grouprx/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GroupRx/gen/com/grouprx/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/android-support-v7-appcompat.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menudrawer/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menudrawer/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menudrawer/bin/menudrawer.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$anim.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/android/support/v7/appcompat/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/LinksListAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/LinksListAdapter$ViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/LinksListAdapter.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/LinksListAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/MenuListAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/MenuListAdapter$ViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/MenuListAdapter.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/adapters/MenuListAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/objects/objLink.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/objects/objLink.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/AppSettings.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/AppSettings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/CommonUtilsManagerImplHTTPS.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/CommonUtilsManagerImplHTTPS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2$OnUpdateCompletedCallback.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2$OnUpdateCompletedCallback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2$UpdateMessageSender.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2$UpdateMessageSender.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/DBUpdaterV2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/URLDownloadFile.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/URLDownloadFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/URLRequest.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/sync/URLRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCRXFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCRXFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCRXFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/AboutNDCRXFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FaqsFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FaqsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FaqsFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FaqsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FaqsItemFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FaqsItemFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeGroupRxCardTempletActivity$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeGroupRxCardTempletActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeGroupRxCardTempletActivity$2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeGroupRxCardTempletActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeGroupRxCardTempletActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeGroupRxCardTempletActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeRxCardHomeFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeRxCardHomeFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeRxCardHomeFragment$2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeRxCardHomeFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeRxCardHomeFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/FreeRxCardHomeFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$checkURLTask$1$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$checkURLTask$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$checkURLTask$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$checkURLTask$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$checkURLTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity$checkURLTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/GroupIDActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseAppFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseAppFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseAppFragment$2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseAppFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseAppFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseAppFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseDigitalRxCardFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseDigitalRxCardFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseDigitalRxCardFragment$DigitalRxCardOptionsTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseDigitalRxCardFragment$DigitalRxCardOptionsTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseDigitalRxCardFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/HowToUseDigitalRxCardFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LaunchActivity$loadingTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LaunchActivity$loadingTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LaunchActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LaunchActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinkItemFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinkItemFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinkItemFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinkItemFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinksFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinksFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinksFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/LinksFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$3.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$4.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$5.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$6.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$7.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$faqsTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$faqsTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$freeRxCardTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$freeRxCardTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$howToUseAppTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$howToUseAppTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$howToUseDigitalRxCardTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$howToUseDigitalRxCardTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$searchPriceTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity$searchPriceTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/PetInfoActivity$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/PetInfoActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/PetInfoActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/PetInfoActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/PlayVideoActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/PlayVideoActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/SearchPricesFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/SearchPricesFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/SearchPricesFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/SearchPricesFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$1.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$2.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$freeGroupRxCardPetTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$freeGroupRxCardPetTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$freeGroupRxCardTask.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment$freeGroupRxCardTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/ui/UseGroupRxCardOptionsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/GroupRxApplication.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/GroupRxApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/MyActivity.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/MyActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/MyFragment.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/MyFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/NoExceptionJsonObject.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/NoExceptionJsonObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/SharedPreferencesHelper.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/com/grouprx/util/SharedPreferencesHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$attr.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$color.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$id.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$string.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$style.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$styleable.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R.class" afterPath="$PROJECT_DIR$/GroupRx/bin/classes/net/simonvt/menudrawer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_about_h.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_about_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_about_n.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_about_n.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_back.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_dollar.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_dollar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_home.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_home_hover.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_home_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_home_hover_gray.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_home_hover_gray.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_icon_donate.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_icon_donate.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_icon_link.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_icon_link.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_icon_menu.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_icon_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_digital_rx_card.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_digital_rx_card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_free_pet_rx_card_templat.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_free_pet_rx_card_templat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_free_rx_card_templat.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_free_rx_card_templat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_group.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_group_banner.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_group_banner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_how_to_use_app.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_how_to_use_app.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_video_ndc.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_video_ndc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_video_ndc_rx.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_image_video_ndc_rx.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_info.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_info_sold.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_info_sold.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_mail.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_menu.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_menu_hover.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_menu_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_question.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_question.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_rx.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-hdpi/ic_rx.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_about_h.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_about_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_about_n.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_about_n.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_back.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_dollar.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_dollar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_home.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_home_hover.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_home_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_home_hover_gray.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_home_hover_gray.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_info.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_mail.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_menu.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_menu_hover.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_menu_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_question.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_question.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_rx.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xhdpi/ic_rx.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/GroupRx/bin/res/crunch/drawable-xxxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/BuildConfig.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$anim.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/classes/android/support/v7/appcompat/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_top_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_ab_back_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_ab_back_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_cab_done_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_cab_done_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_disabled.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_normal.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_normal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_go.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_go_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_share_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_share_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_voice_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_voice_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_divider_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_divider_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_divider_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_longpressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_selected_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_selected_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_selected_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_top_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_ab_back_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_ab_back_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_cab_done_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_cab_done_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_disabled.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_normal.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_normal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_go.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_go_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_share_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_share_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_voice_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_voice_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_divider_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_divider_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_divider_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_longpressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_selected_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_selected_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_selected_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_ab_back_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_cab_done_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_disabled.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_normal.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_normal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_go.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_share_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_voice_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_voice_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_divider_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_divider_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_longpressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_selected_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_selected_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_solid_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_solid_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_transparent_dark_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_transparent_light_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_bottom_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_bottom_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_top_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_top_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_ab_back_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_ab_back_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_cab_done_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_cab_done_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_disabled.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_normal.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_normal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_search_api_disabled_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_commit_search_api_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_commit_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_go.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_go_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_share_holo_dark.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_share_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_voice_search.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_voice_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_voice_search_api_holo_light.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_divider_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_divider_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_longpressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_dropdown_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_dropdown_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_hardkey_panel_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_hardkey_panel_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_disabled_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_disabled_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_focused_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_pressed_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_pressed_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_selected_focused_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_selected_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_selected_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_selected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_unselected_pressed_holo.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_default_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_default_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_selected_holo_dark.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_selected_holo_light.9.png" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/bin/res/crunch/drawable-xxhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildConfig.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildLayerFrameLayout$1.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildLayerFrameLayout$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildLayerFrameLayout$2.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildLayerFrameLayout$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildLayerFrameLayout.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/BuildLayerFrameLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/ColorDrawable$ColorState.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/ColorDrawable$ColorState.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/ColorDrawable.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/ColorDrawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$1.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$2.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$3.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$4.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/DraggableDrawer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/FloatScroller.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/FloatScroller.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$1.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$2.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$OnDrawerStateChangeListener.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$OnDrawerStateChangeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$OnInterceptMoveEventListener.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$OnInterceptMoveEventListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$SavedState$1.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$SavedState$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$SavedState.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$SavedState.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$Type.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer$Type.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/MenuDrawer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/NoClickThroughFrameLayout.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/NoClickThroughFrameLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/OverlayDrawer$1.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/OverlayDrawer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/OverlayDrawer.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/OverlayDrawer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/PeekInterpolator.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/PeekInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/Position.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/Position.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$attr.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$color.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$id.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$string.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$style.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$styleable.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/Scroller.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/Scroller.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SinusoidalInterpolator.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SinusoidalInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SlideDrawable.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SlideDrawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SlidingDrawer.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SlidingDrawer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SmoothInterpolator.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/SmoothInterpolator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/StaticDrawer.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/StaticDrawer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/ViewHelper.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/ViewHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelper.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperCompat$SetIndicatorInfo.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperCompat$SetIndicatorInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperCompat.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperCompat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperNative$SetIndicatorInfo.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperNative$SetIndicatorInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperNative.class" afterPath="$PROJECT_DIR$/menudrawer/bin/classes/net/simonvt/menudrawer/compat/ActionBarHelperNative.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GroupRx/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/gen/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/GroupRx/gen/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/gen/net/simonvt/menudrawer/R.java" afterPath="$PROJECT_DIR$/GroupRx/gen/net/simonvt/menudrawer/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/res/drawable/toggle_color_background_green.xml" afterPath="$PROJECT_DIR$/GroupRx/res/drawable/toggle_color_background_green.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/res/layout-large/custom_action_bar.xml" afterPath="$PROJECT_DIR$/GroupRx/res/layout-large/custom_action_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/res/layout-normal/custom_action_bar.xml" afterPath="$PROJECT_DIR$/GroupRx/res/layout-normal/custom_action_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/res/values/colors.xml" afterPath="$PROJECT_DIR$/GroupRx/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/adapters/LinksListAdapter.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/adapters/LinksListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/adapters/MenuListAdapter.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/adapters/MenuListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/AboutNDCFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/AboutNDCFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/AboutNDCRXFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/AboutNDCRXFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FaqsFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FaqsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FaqsItemFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FaqsItemFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FreeGroupRxCardTempletActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FreeGroupRxCardTempletActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FreeRxCardHomeFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/FreeRxCardHomeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/GroupIDActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/GroupIDActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/HowToUseAppFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/HowToUseAppFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/HowToUseDigitalRxCardFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/HowToUseDigitalRxCardFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LaunchActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LaunchActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinkItemFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinkItemFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinksFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinksFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/MainActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/PetInfoActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/PetInfoActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/PlayVideoActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/PlayVideoActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/SearchPricesFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/SearchPricesFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/UseGroupRxCardOptionsFragment.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/UseGroupRxCardOptionsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroupRx/src/com/grouprx/util/MyActivity.java" afterPath="$PROJECT_DIR$/GroupRx/src/com/grouprx/util/MyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/gen/android/support/v7/appcompat/BuildConfig.java" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/gen/android/support/v7/appcompat/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/gen/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/gen/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/build.gradle" afterPath="$PROJECT_DIR$/menudrawer/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/gen/net/simonvt/menudrawer/BuildConfig.java" afterPath="$PROJECT_DIR$/menudrawer/gen/net/simonvt/menudrawer/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menudrawer/gen/net/simonvt/menudrawer/R.java" afterPath="$PROJECT_DIR$/menudrawer/gen/net/simonvt/menudrawer/R.java" />
+    </list>
+    <ignored path="android-group-rx-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state />
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="android-group-rx-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupIDActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/GroupIDActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_launch.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GroupRx/res/layout-large/activity_launch.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinksFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinksFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2846#2847#0" expanded="false" />
+                <element signature="e#2874#2875#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/GroupIDActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="33" />
+    <option name="y" value="27" />
+    <option name="width" value="1866" />
+    <option name="height" value="1083" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GroupRx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GroupRx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grouprx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-group-rx-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GroupRx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grouprx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c759e2e3-d5b7-4cbc-8571-d65cdc92d1e0" name="Default" comment="" />
+      <created>1473195440080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473195440080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="33" y="27" width="1866" height="1083" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294956" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupRx/res/layout-large/activity_launch.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinksFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2846#2847#0" expanded="false" />
+            <element signature="e#2874#2875#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/LinksFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2846#2847#0" expanded="false" />
+            <element signature="e#2874#2875#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupRx/res/layout-large/activity_launch.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupRx/src/com/grouprx/ui/GroupIDActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

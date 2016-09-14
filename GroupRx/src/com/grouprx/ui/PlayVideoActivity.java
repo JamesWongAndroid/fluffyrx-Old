@@ -11,7 +11,7 @@ import android.os.Bundle;
 import android.widget.MediaController;
 import android.widget.VideoView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 
 public class PlayVideoActivity extends Activity implements OnCompletionListener {
 

@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.View.OnTouchListener;
 import android.view.ViewGroup;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.util.MyFragment;
 
 public class HowToUseDigitalRxCardFragment extends MyFragment {

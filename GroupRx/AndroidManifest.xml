@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.grouprx"
-    android:versionCode="2015042412"
-    android:versionName="1.0.0.3" >
+    package="com.nationaldrugcard.fluffygrouprx"
+    android:versionCode="2015042413"
+    android:versionName="1.0.0.4" >
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:maxSdkVersion="22"
         android:targetSdkVersion="21" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -14,13 +13,13 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name=".util.GroupRxApplication"
+        android:name="com.grouprx.util.GroupRxApplication"
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/ic_launcher_fluffy"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".ui.LaunchActivity"
+            android:name="com.grouprx.ui.LaunchActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.NoTitleBar" 
@@ -28,14 +27,14 @@
             >
         </activity>
         <activity
-            android:name=".ui.MainActivity"
+            android:name="com.grouprx.ui.MainActivity"
             android:label="@string/title_activity_main"
             android:clearTaskOnLaunch="true"  
 			android:stateNotNeeded="true"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name=".ui.GroupIDActivity"
+            android:name="com.grouprx.ui.GroupIDActivity"
             android:label="@string/app_name"
             android:theme="@style/FullscreenThemexx"
             android:screenOrientation="portrait"
@@ -46,17 +45,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.FreeGroupRxCardTempletActivity"
+            android:name="com.grouprx.ui.FreeGroupRxCardTempletActivity"
             android:label="@string/title_activity_main"
             android:screenOrientation="landscape" >
         </activity>
         <activity
-            android:name=".ui.PetInfoActivity"
+            android:name="com.grouprx.ui.PetInfoActivity"
             android:label="@string/title_activity_main"
             android:screenOrientation="landscape" >
         </activity>
         <activity
-            android:name=".ui.PlayVideoActivity"
+            android:name="com.grouprx.ui.PlayVideoActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/title_activity_main"
             android:screenOrientation="sensor"

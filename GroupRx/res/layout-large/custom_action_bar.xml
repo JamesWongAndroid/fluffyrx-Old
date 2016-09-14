@@ -63,6 +63,7 @@
         android:background="@android:color/transparent"
         android:button="@null"
         android:drawableStart="@drawable/selector_home_button"
+        android:drawableLeft="@drawable/selector_home_button"
         android:padding="10dp"
         />
     </RadioGroup>

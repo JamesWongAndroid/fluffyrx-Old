@@ -10,7 +10,7 @@ import android.view.View.OnClickListener;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 
 public class PetInfoActivity extends ActionBarActivity {
 	private ActionBar mActionBar;

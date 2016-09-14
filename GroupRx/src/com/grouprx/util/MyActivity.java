@@ -7,7 +7,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.ActionBarActivity;
 import android.util.DisplayMetrics;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.ui.HowToUseAppFragment;
 
 public abstract class MyActivity extends ActionBarActivity {

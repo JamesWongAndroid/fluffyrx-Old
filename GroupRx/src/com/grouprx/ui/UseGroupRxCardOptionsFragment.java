@@ -13,7 +13,7 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.sync.URLDownloadFile;
 import com.grouprx.util.MyFragment;
 
@@ -30,7 +30,7 @@ public class UseGroupRxCardOptionsFragment extends MyFragment {
 		ImageView image_1 = (ImageView) view.findViewById(R.id.image_1);
 		
 		try {
-			image_1.setImageBitmap(BitmapFactory.decodeStream(getActivity().getAssets().open("ic_image_free_rx_card.png")));
+			image_1.setImageBitmap(BitmapFactory.decodeStream(getActivity().getAssets().open("free_pet_card.png")));
 		} catch (Exception e) {
 			
 		}
@@ -56,7 +56,7 @@ public class UseGroupRxCardOptionsFragment extends MyFragment {
 		ImageView image_2 = (ImageView) view.findViewById(R.id.image_2);
 		
 		try {
-			image_2.setImageBitmap(BitmapFactory.decodeStream(getActivity().getAssets().open("ic_image_free_pet_rx_card.png")));
+			image_2.setImageBitmap(BitmapFactory.decodeStream(getActivity().getAssets().open("human_free_card.png")));
 		} catch (Exception e) {
 			
 		}

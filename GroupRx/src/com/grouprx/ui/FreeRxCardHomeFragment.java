@@ -19,7 +19,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.sync.AppSettings;
 import com.grouprx.sync.URLDownloadFile;
 import com.grouprx.util.MyFragment;

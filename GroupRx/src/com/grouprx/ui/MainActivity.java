@@ -4,11 +4,14 @@ import java.io.File;
 import java.util.ArrayList;
 
 import net.simonvt.menudrawer.MenuDrawer;
+import net.simonvt.menudrawer.MenuDrawer.OnDrawerStateChangeListener;
 import net.simonvt.menudrawer.Position;
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -25,12 +28,14 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.adapters.MenuListAdapter;
 import com.grouprx.sync.AppSettings;
 import com.grouprx.sync.URLDownloadFile;
 import com.grouprx.util.MyActivity;
 import com.grouprx.util.MyFragment;
+import android.graphics.PorterDuff;
+import android.graphics.drawable.Drawable;
 
 public class MainActivity extends MyActivity {
 
@@ -45,6 +50,8 @@ public class MainActivity extends MyActivity {
 	private ImageButton actionbar_back;
 	private ImageButton actionbar_menu;
 	private ImageView imageMenu;
+	private SharedPreferences sharedPreferences;
+	private boolean seenTutorial = false;
 
 	private static MainActivity instance;
 
@@ -55,6 +62,11 @@ public class MainActivity extends MyActivity {
 	protected void onCreate(final Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		instance = this;
+		
+		sharedPreferences = getSharedPreferences(getResources().getString(R.string.app_name), MODE_PRIVATE);
+		seenTutorial = sharedPreferences.getBoolean("seenTutorial", false);
+		
+		
 		try {
 			mActionBar = getActionBar();
 			mActionBar.setDisplayShowHomeEnabled(false);
@@ -70,6 +82,7 @@ public class MainActivity extends MyActivity {
 				@Override
 				public void onClick(View view) {
 					mDrawer.toggleMenu();
+					
 				}
 			});
 
@@ -102,6 +115,7 @@ public class MainActivity extends MyActivity {
 
 			mActionBar.setCustomView(mCustomView);
 			mActionBar.setDisplayShowCustomEnabled(true);
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 			System.out.println("ExceptionException = " + e);
@@ -142,12 +156,14 @@ public class MainActivity extends MyActivity {
 						ragiobutton_group_home.clearCheck();
 					}
 					closeMenu();
+					actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 					openFragment(new AboutNDCFragment());
 				} else if (position == 5) {
 					if (ragiobutton_group_home != null) {
 						ragiobutton_group_home.clearCheck();
 					}
 					closeMenu();
+					actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 					openFragment(new AboutNDCRXFragment());
 				}
 
@@ -157,6 +173,25 @@ public class MainActivity extends MyActivity {
 		radiobutton_group = (RadioGroup) findViewById(R.id.radiobutton_group);
 		button_Use_Free_Card = (RadioButton) findViewById(R.id.button_Use_Free_Card);
 		button_Search_Prices = (RadioButton) findViewById(R.id.button_Search_Prices);
+		
+		mDrawer.setOnDrawerStateChangeListener(new OnDrawerStateChangeListener() {
+			
+			@Override
+			public void onDrawerStateChange(int oldState, int newState) {
+				if (oldState == 1) {
+					actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
+				} else {
+					actionbar_menu.setColorFilter(getResources().getColor(R.color.purple), PorterDuff.Mode.SRC_ATOP);
+				}
+				
+			}
+			
+			@Override
+			public void onDrawerSlide(float openRatio, int offsetPixels) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
 
 		button_Use_Free_Card
 				.setOnCheckedChangeListener(new OnCheckedChangeListener() {
@@ -187,11 +222,16 @@ public class MainActivity extends MyActivity {
 				});
 
 		if (actionbar_home != null) {
-			actionbar_home.setChecked(true);
+			actionbar_home.setChecked(false);
 		}
 		hideBackButton();
 		refresh();
 		
+		if (!seenTutorial) {
+			new howToUseAppTask().execute();
+		} else {
+			showFreeCard();
+		}
 	}
 
 	public void refresh() {
@@ -260,6 +300,7 @@ public class MainActivity extends MyActivity {
 		@Override
 		public void onPreExecute() {
 			mDrawer.closeMenu();
+			actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 		}
 
 		@Override
@@ -280,6 +321,7 @@ public class MainActivity extends MyActivity {
 		@Override
 		public void onPreExecute() {
 			mDrawer.closeMenu();
+			actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 		}
 
 		@Override
@@ -302,6 +344,7 @@ public class MainActivity extends MyActivity {
 		@Override
 		public void onPreExecute() {
 			mDrawer.closeMenu();
+			actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 		}
 
 		@Override
@@ -321,6 +364,7 @@ public class MainActivity extends MyActivity {
 		@Override
 		public void onPreExecute() {
 			mDrawer.closeMenu();
+			actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 		}
 
 		@Override
@@ -339,6 +383,7 @@ public class MainActivity extends MyActivity {
 			@Override
 			public void run() {
 				mDrawer.closeMenu();
+				actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 			}
 		});
 		setMainTitle(R.string.Share_Application);
@@ -355,6 +400,7 @@ public class MainActivity extends MyActivity {
 	@Override
 	public void closeMenu() {
 		mDrawer.closeMenu();
+		actionbar_menu.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
 	}
 
 	@Override
@@ -366,6 +412,15 @@ public class MainActivity extends MyActivity {
 	public void onSaveInstanceState(Bundle savedInstanceState) {
 		// Save the user's current game state
 		super.onSaveInstanceState(savedInstanceState);
+	}
+	
+	public void showFreeCard() {
+		radiobutton_group.clearCheck();
+		button_Use_Free_Card.setChecked(true);
+		SharedPreferences.Editor editor = getSharedPreferences(getResources().getString(R.string.app_name), MODE_PRIVATE).edit();
+		editor.putBoolean("seenTutorial", true);
+		editor.commit();
+		new howToUseDigitalRxCardTask().execute();
 	}
 
 	// menu_item_left

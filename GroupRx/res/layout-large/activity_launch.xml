@@ -13,5 +13,5 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:keepScreenOn="true"
-        android:src="@drawable/ic_image_group" />
+        android:src="@drawable/fluffyrxloading" />
 </FrameLayout>

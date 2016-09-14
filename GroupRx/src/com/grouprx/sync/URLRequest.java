@@ -21,6 +21,7 @@ public class URLRequest extends CommonUtilsManagerImplHTTPS{
 	public boolean getData() throws InterruptedException, ExecutionException{
 		try {
         	HashMap<String, String> params = new HashMap<String, String>();
+        	String test = AppSettings.getInstance().get_group_app_id();
     		JSONObject js = doPost(AppSettings.getInstance().get_group_app_id(),params);
     		if (js != null) {
     			AppSettings.getInstance().setValues(js);

@@ -15,7 +15,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.sync.AppSettings;
 import com.grouprx.sync.URLRequest;
 
@@ -32,6 +32,8 @@ public class GroupIDActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		instance = this;
 		setContentView(R.layout.activity_group_id);
+		
+		AppSettings.getInstance().set_group_app_id("FluffyRx");
 
 		if (!AppSettings.getInstance().get_group_app_id().isEmpty()) {
 			openLoadingActivity();

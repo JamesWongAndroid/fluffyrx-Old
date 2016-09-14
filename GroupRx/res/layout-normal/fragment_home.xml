@@ -27,7 +27,7 @@
                 android:layout_alignParentTop="true"
                 android:adjustViewBounds="true"
                 android:contentDescription="@string/desp"
-                android:src="@drawable/ic_image_group_banner" />
+                android:src="@drawable/fluffy_links_pic" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -110,7 +110,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#00a0eb"
+                android:background="@color/purple"
                 android:gravity="center"
                 android:orientation="horizontal"
                 android:padding="10dp" >

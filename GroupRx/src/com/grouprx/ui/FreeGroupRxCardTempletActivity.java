@@ -18,7 +18,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.grouprx.R;
+import com.nationaldrugcard.fluffygrouprx.R;
 import com.grouprx.sync.AppSettings;
 import com.grouprx.sync.URLDownloadFile;
 
@@ -84,13 +84,13 @@ public class FreeGroupRxCardTempletActivity extends ActionBarActivity {
 		File fil = URLDownloadFile.getInstance().getFilePath_drug_card_image();
 		String help = AppSettings.getInstance().get_NDCCardPhone();
 		actionbar_info_sold.setVisibility(View.INVISIBLE);
-		int imageNotFoundID = R.drawable.ic_image_free_rx_card_templat;
+		int imageNotFoundID = R.drawable.fluffy_card_template;
 		if (isPet) {
 			fil = URLDownloadFile.getInstance().getFilePath_pet_drug_card_image();
 			values = AppSettings.getInstance().get_PetCardValues();
 			help = AppSettings.getInstance().get_PETCardPhone();
 			actionbar_info_sold.setVisibility(View.VISIBLE);
-			imageNotFoundID = R.drawable.ic_image_free_pet_rx_card_templat;
+			imageNotFoundID = R.drawable.fluffy_human_template;
 		}
 		try {
 			textview_groupID.setText(""+values.get(0));
