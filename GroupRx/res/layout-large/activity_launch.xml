@@ -13,5 +13,5 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:keepScreenOn="true"
-        android:src="@drawable/fluffyrxloading" />
+        android:src="@drawable/fluffyloadingtm" />
 </FrameLayout>

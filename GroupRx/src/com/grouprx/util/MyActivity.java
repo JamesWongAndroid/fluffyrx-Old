@@ -36,14 +36,16 @@ public abstract class MyActivity extends ActionBarActivity {
 	public void openFragmentHelp(MyFragment fr,MyFragment parent){
 		FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
 		transaction.setCustomAnimations(R.anim.fade_in, R.anim.fade_out,R.anim.fade_in,R.anim.fade_out);
-		transaction.add(R.id.main_container, fr);
-		if (! fr.isMainLevel) {
-			transaction.addToBackStack(null);
+		if (!fr.isAdded()) {
+			transaction.add(R.id.main_container, fr);
+			if (! fr.isMainLevel) {
+				transaction.addToBackStack(null);
+			}
+			fr.setTargetFragment(parent, 1);
+			setMainTitle(fr.getTitle());
+			transaction.commitAllowingStateLoss();
+			System.out.println("myFragment.isMainLevel = "+fr.isMainLevel+" FR Help Name : "+fr.getClass().getSimpleName());
 		}
-		fr.setTargetFragment(parent, 1);
-		setMainTitle(fr.getTitle());
-		transaction.commitAllowingStateLoss();
-		System.out.println("myFragment.isMainLevel = "+fr.isMainLevel+" FR Help Name : "+fr.getClass().getSimpleName());
 	}
 	
 	public void closeFragmentHelp(MyFragment fr) {
